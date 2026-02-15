@@ -3,6 +3,9 @@
   <img alt="" src="https://swetrix.com/assets/logo_blue.png" height="80">
 </picture>
 
+> [!NOTE]
+> This repository has been archived. Development has moved to the [Swetrix monorepo](https://github.com/Swetrix/swetrix) under [`packages/tracker-node`](https://github.com/Swetrix/swetrix/tree/main/packages/tracker-node). Please open issues and pull requests there instead.
+
 # `@swetrix/node` - Swetrix NodeJS integration
 
 This repository contains the analytics script for server-side tracking of your website.
